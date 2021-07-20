@@ -21,6 +21,8 @@ dependencies:
     - pyqt
     - parso=0.7
     - prompt_toolkit=2
+    - black
+    - pylint
     - pip
     - pip:
         - moviepy
